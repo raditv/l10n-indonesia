@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<openerp>
+<odoo>
     <data>
         
         <!--
@@ -102,4 +102,4 @@
             <field eval="time.strftime('%Y')+'-12-31'" name="date_end"/>
         </record>
     </data>
-</openerp>
+</odoo>

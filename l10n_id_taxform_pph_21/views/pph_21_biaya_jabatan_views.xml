@@ -2,7 +2,7 @@
 <!-- Copyright 2016 OpenSynergy Indonesia
      License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl). -->
 
-<openerp>
+<odoo>
 <data>
 
 
@@ -50,4 +50,4 @@
     action="pph_21_biaya_jabatan_action"/>
 
 </data>
-</openerp>
+</odoo>
